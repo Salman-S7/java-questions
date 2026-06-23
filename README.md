@@ -1,6 +1,5 @@
 # java-questions
 
-Here are the questions in a cleaner **one-after-another format**, not in table form.
 
 **4. Treasure Chest Attempts**
 
